@@ -13,7 +13,7 @@ namespace Project_2Studentdata
         {
             try
             {
-                string path = @"D:\PracticeProject-2\Project-2Studentdata\StudentData.txt";
+                string path = @"C:\mphasis-B2\Practice Project-2\Project-2Studentdata\Project-2Studentdata\StudentData.txt";
                 string[] files = File.ReadAllLines(path);
                 Console.WriteLine("The Students Data are \n");
                 int index = 1;
@@ -29,7 +29,7 @@ namespace Project_2Studentdata
             finally
             {
                 Console.WriteLine();
-                Console.Write("All the Students data in the files are displayed ");
+                Console.Write("All the Students data in the files are displayed");
             }
                 Console.ReadKey();
         }
