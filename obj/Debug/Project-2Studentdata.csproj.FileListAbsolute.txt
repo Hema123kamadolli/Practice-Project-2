@@ -1,0 +1,7 @@
+C:\mphasis-B2\Practice Project-2\Project-2Studentdata\Project-2Studentdata\bin\Debug\Project-2Studentdata.exe.config
+C:\mphasis-B2\Practice Project-2\Project-2Studentdata\Project-2Studentdata\bin\Debug\Project-2Studentdata.exe
+C:\mphasis-B2\Practice Project-2\Project-2Studentdata\Project-2Studentdata\bin\Debug\Project-2Studentdata.pdb
+C:\mphasis-B2\Practice Project-2\Project-2Studentdata\Project-2Studentdata\obj\Debug\Project-2Studentdata.csproj.AssemblyReference.cache
+C:\mphasis-B2\Practice Project-2\Project-2Studentdata\Project-2Studentdata\obj\Debug\Project-2Studentdata.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Practice Project-2\Project-2Studentdata\Project-2Studentdata\obj\Debug\Project-2Studentdata.exe
+C:\mphasis-B2\Practice Project-2\Project-2Studentdata\Project-2Studentdata\obj\Debug\Project-2Studentdata.pdb
